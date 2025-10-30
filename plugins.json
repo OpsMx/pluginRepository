@@ -1,4 +1,3 @@
-[
   {
     "id": "Armory.armory-observability-plugin",
     "description": "An PF4J-based plugin that provides a custom pipeline stage for armory-observability-plugin",
@@ -13,4 +12,4 @@
       }
     ]
   }
-]
+
