@@ -66,7 +66,7 @@
         "version": "1.0.1",
         "date": "2024-08-12T17:06:21.169550Z",
         "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
-        "sha512sum": "49b88136892da538e227c163889db64e4d67bce12c187b592f7699f15c483f59807f88376f04e0d0a9985cd2a46a18490bbc56017583bab7f1815cec619fa570",
+        "sha512sum": "07049f5ca3fae0ca25a665b103f885c00447d8119da39ecc6dc5c954825e1689ce5439e86781cef7227d8020deb2b95339a40fd8ea39d65e3eb34a000db90059",
         "url": "https://github.com/opsmx/armory-observability-plugin/releases/download/v1.0.1/armory-observability-plugin-v1.0.1.zip"
       }
     ]
