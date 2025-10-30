@@ -53,7 +53,7 @@
         "requires": "orca>=0.0.0,deck>=0.0.0",
         "sha512sum": "5f997796d52e74d2f71f7b63f7c2c61ec11e08a9af47fc2ff2db997f1d78c4f47282e2ed9ef3bcf2b4ca69cc893edc0528027a52193813dcbcd196a6c0cbd36b",
         "state": "",
-        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.isd-spin-2025.08.00-rc1/TestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.isd-spin-2025.08.00-rc1/policyPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   }
