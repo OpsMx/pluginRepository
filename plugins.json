@@ -58,7 +58,7 @@
     ]
   },
   {
-    "id": "Armory.armory-observability-plugin",
+    "id": "Armory.ObservabilityPlugin",
     "description": "An PF4J-based plugin that provides a custom pipeline stage for armory-observability-plugin",
     "provider": "https://github.com/opsmx/armory-observability-plugin",
     "releases": [
