@@ -1,15 +1,60 @@
+[
   {
-    "id": "Armory.armory-observability-plugin",
-    "description": "An PF4J-based plugin that provides a custom pipeline stage for armory-observability-plugin",
-    "provider": "https://github.com/opsmx/armory-observability-plugin",
+    "id": "Opsmx.VerificationGatePlugin",
+    "description": "An example of a PF4J-based plugin that provides a custom pipeline stage.",
     "releases": [
       {
         "version": "1.0.1",
-        "date": "2024-08-12T17:06:21.169550Z",
-        "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
-        "sha512sum": "49b88136892da538e227c163889db64e4d67bce12c187b592f7699f15c483f59807f88376f04e0d0a9985cd2a46a18490bbc56017583bab7f1815cec619fa570",
-        "url": "https://github.com/opsmx/armory-observability-plugin/releases/download/v1.0.1/armory-observability-plugin-v1.0.1.zip"
+        "date": "2021-06-24T16:20:59.469168Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "c916d41d36bb002ea598f74f1d9aa8faccb2b8c811e0b4ac9d90032ec1e06fe2bca58faf57607f83f7e1c0696a908abc5868dfde5a416f8304a9a70dfe6d6b8d",
+        "state": "",
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.isd-spin-2025.08.00-rc1/VerificationPlugin-v1.0.1-SNAPSHOT.zip"
+      }
+    ]
+  },
+  {
+    "id": "Opsmx.TestVerificationGatePlugin",
+    "description": "An example of a PF4J-based plugin that provides a custom pipeline stage.",
+    "releases": [
+      {
+        "version": "1.0.1",
+        "date": "2021-07-25T16:20:59.469168Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "c1908e1ad6dfb7e34621b83afb5e6c14851ff3fc930a091ea81f407496050709f855ea59d00d3fab6a1d590c83583eacc0f51ee8bf937f9f28a2b72369b22b00",
+        "state": "",
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.isd-spin-2025.08.00-rc1/TestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
+      }
+    ]
+  },
+  {
+    "id": "Opsmx.VisibilityApprovalPlugin",
+    "description": "An example of a PF4J-based plugin that provides a custom policy stage.",
+    "releases": [
+      {
+        "version": "1.0.1",
+        "date": "2021-07-20T16:20:59.469168Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "1b6b6f8dab3163d015450bc490e6f91059a13bfe3608579605edfa5363565703cdafe3e6d0b1c5717b75d13aa2eea24164f59f6f6f0f72c142969eb1adff4a6d",
+        "state": "",
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.isd-spin-2025.08.00-rc1/ApprovalStagePlugin-v1.0.1-SNAPSHOT.zip"
+
+
+      }
+    ]
+  },
+  {
+    "id": "Opsmx.PolicyGatePlugin",
+    "description": "An example of a PF4J-based plugin that provides a custom policy stage.",
+    "releases": [
+      {
+        "version": "1.0.1",
+        "date": "2021-07-25T16:20:59.469168Z",
+        "requires": "orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "5f997796d52e74d2f71f7b63f7c2c61ec11e08a9af47fc2ff2db997f1d78c4f47282e2ed9ef3bcf2b4ca69cc893edc0528027a52193813dcbcd196a6c0cbd36b",
+        "state": "",
+        "url": "https://github.com/OpsMx/Customplugins/releases/download/v4.isd-spin-2025.08.00-rc1/TestVerificationPlugin-v1.0.1-SNAPSHOT.zip"
       }
     ]
   }
-
+]
